@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "ZXRNav"
   s.version      = "0.0.1"
-  s.summary      = " custom nav for BaseViewController"
+  s.summary      = " Custome navView"
   s.description  = <<-DESC
                    custom nav for BaseViewController
                    DESC
